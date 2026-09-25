@@ -1,6 +1,7 @@
 ironsrc.com, 684595, DIRECT
 
-
+facebook.com, 1072601108903407, RESELLER, c3e20eee3f780d68
+facebook.com, 965319223006014, RESELLER, c3e20eee3f780d68
 facebook.com, 965319223006014, DIRECT, c3e20eee3f780d68
 
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
